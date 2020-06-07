@@ -4,4 +4,4 @@ Simple Lightning component that'll automatically pin certain listviews for users
 2. Create default listview settings by adjusting the Default Listview metadata type.
 3. Add the DefaultListViewSetter to a Lightning home page (or a page that the user is guaranteed to see).
 
-Originally written for the Cabinet Office & shared open source in line with item 12 of the GDS service standard.
+Written for the Cabinet Office & shared open source in line with item 12 of the GDS service standard. 
